@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.Material",
+  "_name": "LabelNative",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "97a44142-6bac-43ed-8cc8-a0be792868f5"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true
+      }
+    }
+  }
+}

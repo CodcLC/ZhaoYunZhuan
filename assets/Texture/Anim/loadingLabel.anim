@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "loadingLabel",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.625,
+  "sample": 24,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Label": {
+        "string": [
+          {
+            "frame": 0,
+            "value": "."
+          },
+          {
+            "frame": 0.20833333333333334,
+            "value": ".."
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": "..."
+          },
+          {
+            "frame": 0.625,
+            "value": "."
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

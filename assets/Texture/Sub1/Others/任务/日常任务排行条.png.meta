@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f8414ded-aff1-4a67-9ed0-037a3d00147b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 946,
+  "height": 100,
+  "platformSettings": {},
+  "subMetas": {
+    "日常任务排行条": {
+      "ver": "1.0.4",
+      "uuid": "1e6fe868-5033-4f42-b97f-0f9d7eab02be",
+      "rawTextureUuid": "f8414ded-aff1-4a67-9ed0-037a3d00147b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 946,
+      "height": 100,
+      "rawWidth": 946,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

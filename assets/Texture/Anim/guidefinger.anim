@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "guidefinger",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 24,
+  "speed": 0.3,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9d85408d-7ee7-4001-96f6-1be848b0a26b"
+            }
+          },
+          {
+            "frame": 0.20833333333333334,
+            "value": {
+              "__uuid__": "06c8dda5-e353-4f4a-ad7f-9b328f7f4a7a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "0501ccfc-56c1-4ef2-af50-ee4989cd9bd9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 104,
+  "height": 75,
+  "platformSettings": {},
+  "subMetas": {
+    "18星宝箱": {
+      "ver": "1.0.4",
+      "uuid": "598a6a23-b2bd-4afb-9116-3d265f0ab64e",
+      "rawTextureUuid": "0501ccfc-56c1-4ef2-af50-ee4989cd9bd9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 104,
+      "height": 74,
+      "rawWidth": 104,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

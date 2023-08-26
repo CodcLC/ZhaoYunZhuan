@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f86cf3b6-5277-4609-982a-28dc5eb74315",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 124,
+  "height": 27,
+  "platformSettings": {},
+  "subMetas": {
+    "奇门抽奖": {
+      "ver": "1.0.4",
+      "uuid": "4d9cf69e-453d-432a-90f3-e9949bc480d8",
+      "rawTextureUuid": "f86cf3b6-5277-4609-982a-28dc5eb74315",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 124,
+      "height": 27,
+      "rawWidth": 124,
+      "rawHeight": 27,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

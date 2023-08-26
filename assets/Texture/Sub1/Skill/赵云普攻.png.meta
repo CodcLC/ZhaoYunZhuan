@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "bc0c7b35-2028-47f6-acdc-abd169e9417e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 136,
+  "height": 139,
+  "platformSettings": {},
+  "subMetas": {
+    "赵云普攻": {
+      "ver": "1.0.4",
+      "uuid": "12cad2ab-c013-4735-a572-f3d7df2d4109",
+      "rawTextureUuid": "bc0c7b35-2028-47f6-acdc-abd169e9417e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 136,
+      "height": 139,
+      "rawWidth": 136,
+      "rawHeight": 139,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

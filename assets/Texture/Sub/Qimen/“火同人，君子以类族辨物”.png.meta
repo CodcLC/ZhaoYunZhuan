@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "6ea5271d-484f-46dd-992b-8e616557f257",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 461,
+  "height": 60,
+  "platformSettings": {},
+  "subMetas": {
+    "“火同人，君子以类族辨物”": {
+      "ver": "1.0.4",
+      "uuid": "54d489cb-ddc3-418a-a06f-fd3a85018bea",
+      "rawTextureUuid": "6ea5271d-484f-46dd-992b-8e616557f257",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 459,
+      "height": 58,
+      "rawWidth": 461,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

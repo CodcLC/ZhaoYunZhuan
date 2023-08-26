@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "b8c3b2e9-c941-48ca-adec-04cfad960c73",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1680,
+  "height": 229,
+  "platformSettings": {},
+  "subMetas": {
+    "竹林-路面": {
+      "ver": "1.0.4",
+      "uuid": "ea4393ac-1392-441b-84b7-687f1396163e",
+      "rawTextureUuid": "b8c3b2e9-c941-48ca-adec-04cfad960c73",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1680,
+      "height": 229,
+      "rawWidth": 1680,
+      "rawHeight": 229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,20 @@
+
+youkun.png
+size: 556,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tay
+  rotate: false
+  xy: 0, 0
+  size: 124, 164
+  orig: 126, 164
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 278, 0
+  size: 278, 177
+  orig: 287, 193
+  offset: 0, 6
+  index: -1

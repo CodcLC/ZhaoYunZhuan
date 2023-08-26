@@ -1,0 +1,48 @@
+
+qinglong.png
+size: 948,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 0, 0
+  size: 105, 130
+  orig: 107, 132
+  offset: 1, 1
+  index: -1
+B
+  rotate: false
+  xy: 158, 0
+  size: 158, 213
+  orig: 162, 216
+  offset: 0, 1
+  index: -1
+JH
+  rotate: false
+  xy: 316, 0
+  size: 83, 68
+  orig: 85, 70
+  offset: 1, 1
+  index: -1
+JQ
+  rotate: false
+  xy: 474, 0
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+SH
+  rotate: false
+  xy: 632, 0
+  size: 63, 66
+  orig: 65, 68
+  offset: 1, 1
+  index: -1
+SQ
+  rotate: false
+  xy: 790, 0
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1

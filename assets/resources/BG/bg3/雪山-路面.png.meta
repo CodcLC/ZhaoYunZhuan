@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "443b502d-bae0-4b2d-8a34-2c79723f8259",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1680,
+  "height": 229,
+  "platformSettings": {},
+  "subMetas": {
+    "雪山-路面": {
+      "ver": "1.0.4",
+      "uuid": "de85774c-8349-4dbe-ba31-a442949e6f29",
+      "rawTextureUuid": "443b502d-bae0-4b2d-8a34-2c79723f8259",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1680,
+      "height": 229,
+      "rawWidth": 1680,
+      "rawHeight": 229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

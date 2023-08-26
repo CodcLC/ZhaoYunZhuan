@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "79c6d441-0c12-4688-9b06-73318c431081",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1680,
+  "height": 800,
+  "platformSettings": {},
+  "subMetas": {
+    "长城-背景": {
+      "ver": "1.0.4",
+      "uuid": "3891834a-27af-4df1-afcf-d1a5c1d3ea7a",
+      "rawTextureUuid": "79c6d441-0c12-4688-9b06-73318c431081",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1680,
+      "height": 800,
+      "rawWidth": 1680,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

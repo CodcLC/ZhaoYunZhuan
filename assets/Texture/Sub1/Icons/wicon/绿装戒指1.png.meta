@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d215b53f-c341-4c5d-9093-9eea7efa4599",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 77,
+  "height": 78,
+  "platformSettings": {},
+  "subMetas": {
+    "绿装戒指1": {
+      "ver": "1.0.4",
+      "uuid": "33118bee-f2ef-4b44-b378-836f9a3a41f2",
+      "rawTextureUuid": "d215b53f-c341-4c5d-9093-9eea7efa4599",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 75,
+      "height": 78,
+      "rawWidth": 77,
+      "rawHeight": 78,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

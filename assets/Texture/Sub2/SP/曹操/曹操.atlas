@@ -1,0 +1,258 @@
+
+曹操.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+003/剑影
+  rotate: false
+  xy: 2, 53
+  size: 357, 188
+  orig: 357, 188
+  offset: 0, 0
+  index: -1
+003/右手
+  rotate: false
+  xy: 966, 243
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+004/右手
+  rotate: false
+  xy: 966, 243
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+003/右手上
+  rotate: true
+  xy: 724, 22
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+003/右手下
+  rotate: false
+  xy: 829, 168
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+003/右脚
+  rotate: false
+  xy: 361, 93
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+004/右脚
+  rotate: false
+  xy: 361, 93
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+003/右腿上
+  rotate: false
+  xy: 890, 159
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+004/右腿上
+  rotate: false
+  xy: 890, 159
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+003/右腿下
+  rotate: false
+  xy: 966, 344
+  size: 38, 74
+  orig: 38, 74
+  offset: 0, 0
+  index: -1
+003/头
+  rotate: true
+  xy: 445, 84
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+003/左手
+  rotate: false
+  xy: 829, 83
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+004/左手
+  rotate: false
+  xy: 829, 83
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+003/左手上
+  rotate: false
+  xy: 747, 267
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+004/左手上
+  rotate: false
+  xy: 747, 267
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+003/左手下
+  rotate: false
+  xy: 222, 10
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+003/左脚
+  rotate: true
+  xy: 1006, 378
+  size: 40, 16
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+004/左脚
+  rotate: true
+  xy: 1006, 378
+  size: 40, 16
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+003/左腿上
+  rotate: true
+  xy: 290, 9
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+004/左腿上
+  rotate: true
+  xy: 290, 9
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+003/左腿下
+  rotate: true
+  xy: 2, 4
+  size: 47, 70
+  orig: 47, 70
+  offset: 0, 0
+  index: -1
+003/武器
+  rotate: false
+  xy: 454, 206
+  size: 291, 121
+  orig: 291, 121
+  offset: 0, 0
+  index: -1
+003/烟雾
+  rotate: true
+  xy: 966, 420
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1
+003/特效1
+  rotate: false
+  xy: 2, 243
+  size: 450, 267
+  orig: 450, 267
+  offset: 0, 0
+  index: -1
+003/特效2
+  rotate: false
+  xy: 454, 329
+  size: 328, 181
+  orig: 328, 181
+  offset: 0, 0
+  index: -1
+003/腰部
+  rotate: true
+  xy: 361, 110
+  size: 131, 82
+  orig: 131, 82
+  offset: 0, 0
+  index: -1
+003/身体
+  rotate: false
+  xy: 724, 81
+  size: 103, 123
+  orig: 103, 123
+  offset: 0, 0
+  index: -1
+004/右手上
+  rotate: false
+  xy: 486, 8
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+004/右手下
+  rotate: false
+  xy: 829, 114
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+004/右腿下
+  rotate: true
+  xy: 146, 13
+  size: 38, 74
+  orig: 38, 74
+  offset: 0, 0
+  index: -1
+004/头
+  rotate: true
+  xy: 361, 2
+  size: 80, 123
+  orig: 80, 123
+  offset: 0, 0
+  index: -1
+004/左手下
+  rotate: true
+  xy: 966, 275
+  size: 67, 41
+  orig: 67, 41
+  offset: 0, 0
+  index: -1
+004/左腿下
+  rotate: true
+  xy: 74, 4
+  size: 47, 70
+  orig: 47, 70
+  offset: 0, 0
+  index: -1
+004/武器
+  rotate: true
+  xy: 784, 222
+  size: 288, 180
+  orig: 288, 180
+  offset: 0, 0
+  index: -1
+004/腰部
+  rotate: false
+  xy: 591, 15
+  size: 131, 82
+  orig: 131, 82
+  offset: 0, 0
+  index: -1
+004/身体
+  rotate: true
+  xy: 591, 99
+  size: 105, 131
+  orig: 105, 131
+  offset: 0, 0
+  index: -1

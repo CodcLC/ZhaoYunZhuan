@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "955889b8-0e5b-4907-af01-1b08ad6903f0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 62,
+  "height": 22,
+  "platformSettings": {},
+  "subMetas": {
+    "通关榜选中状态": {
+      "ver": "1.0.4",
+      "uuid": "e74b09ad-1552-4560-b3dc-9b23d7aa6a8f",
+      "rawTextureUuid": "955889b8-0e5b-4907-af01-1b08ad6903f0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 61,
+      "height": 22,
+      "rawWidth": 62,
+      "rawHeight": 22,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

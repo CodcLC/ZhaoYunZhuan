@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "ef62b71b-e6f3-48a7-a485-1dabae5c42de",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 639,
+  "height": 100,
+  "platformSettings": {},
+  "subMetas": {
+    "七天签到得好礼": {
+      "ver": "1.0.4",
+      "uuid": "3550b1cc-7a41-49af-adac-f04ea58ac424",
+      "rawTextureUuid": "ef62b71b-e6f3-48a7-a485-1dabae5c42de",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4.5,
+      "offsetY": 2,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 630,
+      "height": 96,
+      "rawWidth": 639,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

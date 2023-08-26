@@ -1,0 +1,160 @@
+
+狂战士.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001/0
+  rotate: true
+  xy: 456, 336
+  size: 143, 72
+  orig: 143, 72
+  offset: 0, 0
+  index: -1
+001/B
+  rotate: false
+  xy: 2, 2
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+001/ci
+  rotate: true
+  xy: 344, 126
+  size: 208, 155
+  orig: 208, 155
+  offset: 0, 0
+  index: -1
+001/右手上
+  rotate: false
+  xy: 190, 102
+  size: 152, 216
+  orig: 154, 218
+  offset: 1, 1
+  index: -1
+001/右手下
+  rotate: false
+  xy: 284, 336
+  size: 170, 207
+  orig: 172, 209
+  offset: 1, 1
+  index: -1
+001/右腿上
+  rotate: true
+  xy: 948, 856
+  size: 72, 67
+  orig: 74, 69
+  offset: 1, 1
+  index: -1
+001/右腿下
+  rotate: false
+  xy: 948, 930
+  size: 67, 82
+  orig: 69, 84
+  offset: 1, 1
+  index: -1
+001/头
+  rotate: false
+  xy: 530, 303
+  size: 177, 176
+  orig: 179, 178
+  offset: 1, 1
+  index: -1
+001/左手上
+  rotate: true
+  xy: 477, 847
+  size: 165, 233
+  orig: 167, 235
+  offset: 1, 1
+  index: -1
+001/左手下
+  rotate: false
+  xy: 284, 545
+  size: 165, 236
+  orig: 167, 238
+  offset: 1, 1
+  index: -1
+001/左腿上
+  rotate: false
+  xy: 636, 498
+  size: 60, 86
+  orig: 62, 88
+  offset: 1, 1
+  index: -1
+001/左腿下
+  rotate: false
+  xy: 563, 231
+  size: 72, 70
+  orig: 74, 72
+  offset: 1, 1
+  index: -1
+001/烟雾
+  rotate: true
+  xy: 636, 586
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1
+001/身体
+  rotate: false
+  xy: 2, 667
+  size: 280, 345
+  orig: 282, 347
+  offset: 1, 1
+  index: -1
+002/右手上
+  rotate: false
+  xy: 284, 783
+  size: 191, 229
+  orig: 193, 231
+  offset: 1, 1
+  index: -1
+002/右手下
+  rotate: true
+  xy: 477, 678
+  size: 167, 205
+  orig: 169, 207
+  offset: 1, 1
+  index: -1
+002/右腿下
+  rotate: false
+  xy: 93, 11
+  size: 67, 82
+  orig: 69, 84
+  offset: 1, 1
+  index: -1
+002/头
+  rotate: false
+  xy: 456, 481
+  size: 178, 195
+  orig: 180, 197
+  offset: 1, 1
+  index: -1
+002/左手上
+  rotate: false
+  xy: 2, 95
+  size: 186, 223
+  orig: 188, 225
+  offset: 1, 1
+  index: -1
+002/左手下
+  rotate: true
+  xy: 712, 849
+  size: 163, 234
+  orig: 165, 236
+  offset: 1, 1
+  index: -1
+002/左腿上
+  rotate: false
+  xy: 501, 215
+  size: 60, 86
+  orig: 62, 88
+  offset: 1, 1
+  index: -1
+002/身体
+  rotate: false
+  xy: 2, 320
+  size: 280, 345
+  orig: 282, 347
+  offset: 1, 1
+  index: -1

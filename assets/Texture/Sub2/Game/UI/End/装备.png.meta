@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "18c37e42-b16c-4b19-aa33-12346baaceeb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 63,
+  "height": 102,
+  "platformSettings": {},
+  "subMetas": {
+    "装备": {
+      "ver": "1.0.4",
+      "uuid": "38b7c926-1e84-4613-bd3f-739f17cb1dc2",
+      "rawTextureUuid": "18c37e42-b16c-4b19-aa33-12346baaceeb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 63,
+      "height": 100,
+      "rawWidth": 63,
+      "rawHeight": 102,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

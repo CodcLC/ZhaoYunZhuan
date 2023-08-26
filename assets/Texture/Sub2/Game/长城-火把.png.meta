@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "48193973-39c7-4aa7-9223-bc4975153c6b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 77,
+  "height": 142,
+  "platformSettings": {},
+  "subMetas": {
+    "长城-火把": {
+      "ver": "1.0.4",
+      "uuid": "aaf91f33-75a8-4dc8-9e7a-7d3b95443c55",
+      "rawTextureUuid": "48193973-39c7-4aa7-9223-bc4975153c6b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 76,
+      "height": 142,
+      "rawWidth": 77,
+      "rawHeight": 142,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

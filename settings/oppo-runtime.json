@@ -1,0 +1,19 @@
+{
+  "package": "com.joydream.stickmansg.nearme.gamecenter",
+  "name": "火柴人三国",
+  "icon": "C:\\Users\\Joydream\\Desktop\\KeyStore\\火柴人三国OV秘钥\\256x256.png",
+  "versionName": "1.0.9",
+  "versionCode": "10",
+  "minPlatformVersion": "1051",
+  "deviceOrientation": "landscape",
+  "logLevel": "log",
+  "tinyPackageMode": true,
+  "tinyPackageServer": "https://01txy.goodgame360.com/game/24/oppo/20200615",
+  "useDebugKey": false,
+  "privatePath": "C:\\Users\\Joydream\\Desktop\\KeyStore\\火柴人三国OV秘钥\\key.pem",
+  "certificatePath": "C:\\Users\\Joydream\\Desktop\\KeyStore\\火柴人三国OV秘钥\\cert.pem",
+  "disabledMode": "",
+  "npmPath": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

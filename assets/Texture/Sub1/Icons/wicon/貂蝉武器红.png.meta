@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "9a68f9bb-244b-4c6d-bb4f-9f297a471c3c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 92,
+  "height": 92,
+  "platformSettings": {},
+  "subMetas": {
+    "貂蝉武器红": {
+      "ver": "1.0.4",
+      "uuid": "e60c7ce2-5972-4f2f-a43b-c318c3ce700e",
+      "rawTextureUuid": "9a68f9bb-244b-4c6d-bb4f-9f297a471c3c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 92,
+      "height": 92,
+      "rawWidth": 92,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "15e5c324-ad63-45ca-8dad-3dcacc68a389",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 61,
+  "height": 62,
+  "platformSettings": {},
+  "subMetas": {
+    "狂战士_近攻": {
+      "ver": "1.0.4",
+      "uuid": "fc4a20de-ac0a-432b-b2cf-f4b925e3f9ab",
+      "rawTextureUuid": "15e5c324-ad63-45ca-8dad-3dcacc68a389",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 61,
+      "height": 62,
+      "rawWidth": 61,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

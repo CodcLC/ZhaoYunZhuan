@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f6d7b9b0-4905-4c9c-9e8b-05b7502232f2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1680,
+  "height": 800,
+  "platformSettings": {},
+  "subMetas": {
+    "竹林-中景": {
+      "ver": "1.0.4",
+      "uuid": "b1907892-a270-463a-993f-e334105190fd",
+      "rawTextureUuid": "f6d7b9b0-4905-4c9c-9e8b-05b7502232f2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1680,
+      "height": 800,
+      "rawWidth": 1680,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

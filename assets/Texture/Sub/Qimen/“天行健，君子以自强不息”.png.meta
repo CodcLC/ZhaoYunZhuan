@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c3816262-23cf-42f6-ac56-9005a4aea956",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 461,
+  "height": 61,
+  "platformSettings": {},
+  "subMetas": {
+    "“天行健，君子以自强不息”": {
+      "ver": "1.0.4",
+      "uuid": "9b9955a1-41c3-47e3-a16b-ffaa48a6cf6a",
+      "rawTextureUuid": "c3816262-23cf-42f6-ac56-9005a4aea956",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 459,
+      "height": 59,
+      "rawWidth": 461,
+      "rawHeight": 61,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

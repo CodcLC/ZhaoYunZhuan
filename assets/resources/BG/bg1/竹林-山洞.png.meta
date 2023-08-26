@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "70416bb9-18ea-4954-ab02-4b9a23a1d106",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 492,
+  "height": 441,
+  "platformSettings": {},
+  "subMetas": {
+    "竹林-山洞": {
+      "ver": "1.0.4",
+      "uuid": "964feedd-33a7-4cfb-865a-0b4d865ec04c",
+      "rawTextureUuid": "70416bb9-18ea-4954-ab02-4b9a23a1d106",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 10.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 492,
+      "height": 420,
+      "rawWidth": 492,
+      "rawHeight": 441,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

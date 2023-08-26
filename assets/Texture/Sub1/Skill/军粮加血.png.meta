@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4ac61a5b-0fb1-42ee-9991-3c466fdfaff7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 86,
+  "height": 89,
+  "platformSettings": {},
+  "subMetas": {
+    "军粮加血": {
+      "ver": "1.0.4",
+      "uuid": "2951ddba-7626-4574-9653-369cdd8092b1",
+      "rawTextureUuid": "4ac61a5b-0fb1-42ee-9991-3c466fdfaff7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 86,
+      "height": 89,
+      "rawWidth": 86,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

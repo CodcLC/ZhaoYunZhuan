@@ -1,0 +1,63 @@
+{
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos.threeK",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "encryptJs": false,
+  "excludeScenes": [
+    "1410f6fb-4b8f-4ee9-bbe4-f2647eb4693f"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos.threeK",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "startScene": "295e440a-43e9-421e-b25c-4f4248929b27",
+  "title": "ThreeKingdoms",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "http://192.168.1.121:3000/wx3k",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "landscapeRight",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "3e91978f-2088-49",
+  "zipCompressJs": true,
+  "android": {
+    "packageName": "com.joydream.stickmantk.vivo"
+  },
+  "ios": {
+    "packageName": "org.cocos.threeK"
+  },
+  "mac": {
+    "packageName": "org.cocos.threeK"
+  },
+  "win32": {}
+}

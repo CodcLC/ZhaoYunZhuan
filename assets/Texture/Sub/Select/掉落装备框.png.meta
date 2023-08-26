@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "fc18ee6b-fb50-4921-ada2-718278992139",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 69,
+  "height": 67,
+  "platformSettings": {},
+  "subMetas": {
+    "掉落装备框": {
+      "ver": "1.0.4",
+      "uuid": "a868c221-88ed-4eeb-abec-f1ded8650742",
+      "rawTextureUuid": "fc18ee6b-fb50-4921-ada2-718278992139",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 69,
+      "height": 67,
+      "rawWidth": 69,
+      "rawHeight": 67,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

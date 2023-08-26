@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "942da96c-a498-4627-9318-1a098d0bb4fa",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 175,
+  "height": 67,
+  "platformSettings": {},
+  "subMetas": {
+    "刷新技能": {
+      "ver": "1.0.4",
+      "uuid": "a8ae0e90-63d6-4ed2-beff-5cd3bef1b84e",
+      "rawTextureUuid": "942da96c-a498-4627-9318-1a098d0bb4fa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 175,
+      "height": 67,
+      "rawWidth": 175,
+      "rawHeight": 67,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

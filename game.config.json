@@ -1,0 +1,1 @@
+{"package":"com.joydream.stickmansg.vivominigame","name":"火柴人三国","icon":"/image/256x256.png","versionName":"1.0.12","versionCode":"13","minPlatformVersion":"1057","deviceOrientation":"landscape","type":"game","config":{"logLevel":"log"},"display":{},"subpackages":[{"name":"sub","root":"sub/"},{"name":"sub2","root":"sub2/"},{"name":"subMusic","root":"subMusic/"}]}

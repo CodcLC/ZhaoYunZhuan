@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "0a813a9e-bfe3-4d00-b64b-fbeb4ecdd7d6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 230,
+  "height": 230,
+  "platformSettings": {},
+  "subMetas": {
+    "冒险模式": {
+      "ver": "1.0.4",
+      "uuid": "547bf7c2-fccd-417f-b62f-2d4821acce95",
+      "rawTextureUuid": "0a813a9e-bfe3-4d00-b64b-fbeb4ecdd7d6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 230,
+      "height": 230,
+      "rawWidth": 230,
+      "rawHeight": 230,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

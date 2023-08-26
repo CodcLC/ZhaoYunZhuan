@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "466ff455-7716-45d8-bcf6-f6a46ebc7101",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 57,
+  "height": 92,
+  "platformSettings": {},
+  "subMetas": {
+    "大乔护甲红": {
+      "ver": "1.0.4",
+      "uuid": "bde28779-eb18-4be6-ae67-62d21252f0ce",
+      "rawTextureUuid": "466ff455-7716-45d8-bcf6-f6a46ebc7101",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 55,
+      "height": 92,
+      "rawWidth": 57,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

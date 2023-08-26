@@ -1,0 +1,13 @@
+
+旗子.png
+size: 311,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+左侧旗
+  rotate: false
+  xy: 2, 2
+  size: 307, 326
+  orig: 307, 326
+  offset: 0, 0
+  index: -1

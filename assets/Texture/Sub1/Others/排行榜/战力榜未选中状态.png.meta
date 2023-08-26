@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "202efa93-363a-47a1-aab2-2e228650a7fc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 59,
+  "height": 19,
+  "platformSettings": {},
+  "subMetas": {
+    "战力榜未选中状态": {
+      "ver": "1.0.4",
+      "uuid": "42d17c27-a99b-4437-8a36-63b7909b265b",
+      "rawTextureUuid": "202efa93-363a-47a1-aab2-2e228650a7fc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 59,
+      "height": 19,
+      "rawWidth": 59,
+      "rawHeight": 19,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

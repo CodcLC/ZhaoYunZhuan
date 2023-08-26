@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "3b6fb0d7-cfce-4c2c-8ee7-6f989efbb296",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 60,
+  "height": 22,
+  "platformSettings": {},
+  "subMetas": {
+    "杀戮榜选中状态": {
+      "ver": "1.0.4",
+      "uuid": "55b982f0-bf22-4197-a71a-5c88a9cd6b13",
+      "rawTextureUuid": "3b6fb0d7-cfce-4c2c-8ee7-6f989efbb296",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 60,
+      "height": 22,
+      "rawWidth": 60,
+      "rawHeight": 22,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

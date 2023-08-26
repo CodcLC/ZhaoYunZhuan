@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "2ce006ad-ae0d-4f70-8093-7a73eec21ec5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 90,
+  "height": 90,
+  "platformSettings": {},
+  "subMetas": {
+    "赵云武器红-icon": {
+      "ver": "1.0.4",
+      "uuid": "c537b0e3-c210-46b1-bbc6-5a437b7eae0a",
+      "rawTextureUuid": "2ce006ad-ae0d-4f70-8093-7a73eec21ec5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 90,
+      "height": 90,
+      "rawWidth": 90,
+      "rawHeight": 90,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

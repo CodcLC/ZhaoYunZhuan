@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "82ec99fc-f66d-4dba-ab10-85576ec314d9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 437,
+  "height": 102,
+  "platformSettings": {},
+  "subMetas": {
+    "长城-栅栏": {
+      "ver": "1.0.4",
+      "uuid": "de746cc4-9db4-4a90-8b26-f7adb9f30f5c",
+      "rawTextureUuid": "82ec99fc-f66d-4dba-ab10-85576ec314d9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 435,
+      "height": 102,
+      "rawWidth": 437,
+      "rawHeight": 102,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

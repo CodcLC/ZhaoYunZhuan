@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "2b7d4cb7-cc12-4061-be35-0f352cc24bc5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 87,
+  "height": 92,
+  "platformSettings": {},
+  "subMetas": {
+    "赵云护甲红": {
+      "ver": "1.0.4",
+      "uuid": "3ccfda9e-ce9e-41c4-987e-fa7c1175c12c",
+      "rawTextureUuid": "2b7d4cb7-cc12-4061-be35-0f352cc24bc5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 85,
+      "height": 92,
+      "rawWidth": 87,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

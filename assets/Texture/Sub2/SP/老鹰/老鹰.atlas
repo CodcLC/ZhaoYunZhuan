@@ -1,0 +1,160 @@
+
+老鹰.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 1299, 813
+  size: 301, 192
+  orig: 301, 192
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 984, 834
+  size: 313, 171
+  orig: 313, 171
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 2, 211
+  size: 226, 398
+  orig: 226, 398
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 575, 291
+  size: 229, 146
+  orig: 229, 146
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 887, 645
+  size: 212, 187
+  orig: 212, 187
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 621, 837
+  size: 361, 168
+  orig: 361, 168
+  offset: 0, 0
+  index: -1
+007
+  rotate: false
+  xy: 230, 335
+  size: 173, 274
+  orig: 173, 274
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 405, 352
+  size: 168, 266
+  orig: 168, 266
+  offset: 0, 0
+  index: -1
+009
+  rotate: false
+  xy: 1101, 631
+  size: 193, 201
+  orig: 193, 201
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1602, 787
+  size: 298, 218
+  orig: 298, 218
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 262, 620
+  size: 310, 192
+  orig: 310, 192
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 611
+  size: 258, 394
+  orig: 258, 394
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1902, 743
+  size: 262, 144
+  orig: 262, 144
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 274, 2
+  size: 215, 209
+  orig: 215, 209
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 262, 814
+  size: 357, 191
+  orig: 357, 191
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 2, 8
+  size: 201, 270
+  orig: 201, 270
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 621, 642
+  size: 193, 264
+  orig: 193, 264
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 575, 439
+  size: 220, 201
+  orig: 220, 201
+  offset: 0, 0
+  index: -1
+右
+  rotate: false
+  xy: 1296, 761
+  size: 84, 50
+  orig: 84, 50
+  offset: 0, 0
+  index: -1
+尾巴
+  rotate: true
+  xy: 797, 500
+  size: 140, 77
+  orig: 140, 77
+  offset: 0, 0
+  index: -1
+左
+  rotate: false
+  xy: 1382, 764
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 230, 213
+  size: 202, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1

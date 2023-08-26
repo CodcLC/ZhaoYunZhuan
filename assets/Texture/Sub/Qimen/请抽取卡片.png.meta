@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "b5bc4007-cbd6-4a1b-b7e7-a95574043544",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 177,
+  "height": 35,
+  "platformSettings": {},
+  "subMetas": {
+    "请抽取卡片": {
+      "ver": "1.0.4",
+      "uuid": "20717aa9-005d-4a2e-bfc5-db62e3b53819",
+      "rawTextureUuid": "b5bc4007-cbd6-4a1b-b7e7-a95574043544",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 177,
+      "height": 35,
+      "rawWidth": 177,
+      "rawHeight": 35,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

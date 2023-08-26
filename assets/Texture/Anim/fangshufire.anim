@@ -1,0 +1,89 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fangshufire",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 24,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9d144e3e-70d5-4b2d-b9f7-26f664f1a310"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "9d144e3e-70d5-4b2d-b9f7-26f664f1a310"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "847f0ae0-7b2a-4e34-92c5-ae74ed7201ef"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "847f0ae0-7b2a-4e34-92c5-ae74ed7201ef"
+            }
+          },
+          {
+            "frame": 0.2916666666666667,
+            "value": {
+              "__uuid__": "6c2da88a-a02a-49a5-82a2-24d4cacfb64a"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "ff2aa327-2ea1-4772-835c-f38a89b0a7f3"
+            }
+          },
+          {
+            "frame": 0.375,
+            "value": {
+              "__uuid__": "be10d34a-6d6a-4d89-b8ca-a2b385b889d6"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "8ec1822f-fcd2-40f6-8e10-cfdc269065ab"
+            }
+          },
+          {
+            "frame": 0.4583333333333333,
+            "value": {
+              "__uuid__": "40567b0d-29c1-4760-857a-c9a0cec4bff1"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 324.157
+        },
+        {
+          "frame": 0.2916666666666667,
+          "value": -220
+        },
+        {
+          "frame": 0.4583333333333333,
+          "value": -220
+        }
+      ]
+    }
+  },
+  "events": []
+}

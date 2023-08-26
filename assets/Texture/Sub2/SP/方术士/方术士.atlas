@@ -1,0 +1,153 @@
+
+方术士.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001/eff_light_1
+  rotate: false
+  xy: 861, 23
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+001/右角
+  rotate: true
+  xy: 619, 12
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+001/头
+  rotate: true
+  xy: 951, 65
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+001/左角
+  rotate: true
+  xy: 527, 62
+  size: 64, 116
+  orig: 64, 117
+  offset: 0, 0
+  index: -1
+001/手
+  rotate: true
+  xy: 206, 2
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+001/法杖
+  rotate: true
+  xy: 2, 20
+  size: 52, 202
+  orig: 52, 203
+  offset: 0, 1
+  index: -1
+001/烟雾
+  rotate: false
+  xy: 527, 15
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1
+001/脚
+  rotate: false
+  xy: 909, 19
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+002/脚
+  rotate: false
+  xy: 909, 19
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+001/袖子
+  rotate: true
+  xy: 763, 71
+  size: 55, 92
+  orig: 55, 92
+  offset: 0, 0
+  index: -1
+001/袖带
+  rotate: true
+  xy: 861, 13
+  size: 8, 44
+  orig: 8, 44
+  offset: 0, 0
+  index: -1
+001/身体
+  rotate: true
+  xy: 207, 39
+  size: 87, 158
+  orig: 87, 158
+  offset: 0, 0
+  index: -1
+002/eff_light_1
+  rotate: false
+  xy: 944, 17
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+002/右角
+  rotate: true
+  xy: 708, 12
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+002/头
+  rotate: true
+  xy: 797, 2
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+002/左角
+  rotate: true
+  xy: 645, 62
+  size: 64, 116
+  orig: 64, 117
+  offset: 0, 0
+  index: -1
+002/手
+  rotate: true
+  xy: 228, 2
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+002/法杖
+  rotate: true
+  xy: 2, 74
+  size: 52, 203
+  orig: 52, 203
+  offset: 0, 0
+  index: -1
+002/袖子
+  rotate: true
+  xy: 857, 71
+  size: 55, 92
+  orig: 55, 92
+  offset: 0, 0
+  index: -1
+002/袖带
+  rotate: false
+  xy: 992, 19
+  size: 8, 44
+  orig: 8, 44
+  offset: 0, 0
+  index: -1
+002/身体
+  rotate: true
+  xy: 367, 39
+  size: 87, 158
+  orig: 87, 158
+  offset: 0, 0
+  index: -1

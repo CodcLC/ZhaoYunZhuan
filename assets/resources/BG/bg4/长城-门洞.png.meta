@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "0fcbf474-72f9-4b02-ad2b-9581b78c7746",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 605,
+  "height": 378,
+  "platformSettings": {},
+  "subMetas": {
+    "长城-门洞": {
+      "ver": "1.0.4",
+      "uuid": "7a15b304-f926-47d5-92e8-ff2d3871160a",
+      "rawTextureUuid": "0fcbf474-72f9-4b02-ad2b-9581b78c7746",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 4,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 605,
+      "height": 370,
+      "rawWidth": 605,
+      "rawHeight": 378,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

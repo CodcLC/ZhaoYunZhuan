@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "5a26e556-0297-4068-8c62-5c1e7dddb527",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1680,
+  "height": 800,
+  "platformSettings": {},
+  "subMetas": {
+    "定军山-中景": {
+      "ver": "1.0.4",
+      "uuid": "2acb19ed-fbb8-4f92-be92-fde58473c991",
+      "rawTextureUuid": "5a26e556-0297-4068-8c62-5c1e7dddb527",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1680,
+      "height": 800,
+      "rawWidth": 1680,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

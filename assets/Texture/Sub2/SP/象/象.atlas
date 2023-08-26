@@ -1,0 +1,62 @@
+
+象.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 76
+  rotate: false
+  xy: 2, 2
+  size: 187, 92
+  orig: 187, 92
+  offset: 0, 0
+  index: -1
+Layer 77
+  rotate: false
+  xy: 359, 175
+  size: 395, 296
+  orig: 395, 297
+  offset: 0, 1
+  index: -1
+Layer 78 copy
+  rotate: false
+  xy: 2, 96
+  size: 355, 375
+  orig: 355, 375
+  offset: 0, 0
+  index: -1
+Untitled-1
+  rotate: false
+  xy: 756, 252
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+chan
+  rotate: false
+  xy: 756, 310
+  size: 80, 161
+  orig: 80, 161
+  offset: 0, 0
+  index: -1
+chan 2 copy
+  rotate: true
+  xy: 359, 105
+  size: 68, 101
+  orig: 68, 101
+  offset: 0, 0
+  index: -1
+chan 2
+  rotate: true
+  xy: 359, 105
+  size: 68, 101
+  orig: 68, 101
+  offset: 0, 0
+  index: -1
+chan copy
+  rotate: true
+  xy: 191, 14
+  size: 80, 160
+  orig: 80, 160
+  offset: 0, 0
+  index: -1

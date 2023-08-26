@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "5344e075-ec49-490a-88ee-00e30a6203db",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 68,
+  "height": 75,
+  "platformSettings": {},
+  "subMetas": {
+    "出战人物框": {
+      "ver": "1.0.4",
+      "uuid": "7773dd50-e255-496f-8405-35a928abd25d",
+      "rawTextureUuid": "5344e075-ec49-490a-88ee-00e30a6203db",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 68,
+      "height": 75,
+      "rawWidth": 68,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

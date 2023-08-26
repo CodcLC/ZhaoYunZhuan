@@ -1,0 +1,216 @@
+
+战车.png
+size: 1506,427
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001/下颌骨
+  rotate: false
+  xy: 689, 211
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+002/下颌骨
+  rotate: false
+  xy: 689, 211
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+001/座椅
+  rotate: true
+  xy: 504, 197
+  size: 228, 183
+  orig: 228, 183
+  offset: 0, 0
+  index: -1
+001/攻击1
+  rotate: false
+  xy: 1215, 277
+  size: 103, 148
+  orig: 104, 159
+  offset: 0, 6
+  index: -1
+001/攻击2
+  rotate: true
+  xy: 1150, 7
+  size: 104, 151
+  orig: 104, 159
+  offset: 0, 4
+  index: -1
+001/攻击3
+  rotate: false
+  xy: 840, 109
+  size: 102, 157
+  orig: 104, 159
+  offset: 1, 1
+  index: -1
+001/攻击4
+  rotate: true
+  xy: 995, 5
+  size: 104, 153
+  orig: 104, 159
+  offset: 0, 3
+  index: -1
+001/攻击5
+  rotate: false
+  xy: 1049, 113
+  size: 103, 155
+  orig: 104, 159
+  offset: 0, 2
+  index: -1
+001/攻击6
+  rotate: false
+  xy: 944, 111
+  size: 103, 156
+  orig: 104, 159
+  offset: 0, 2
+  index: -1
+001/攻击7
+  rotate: false
+  xy: 734, 51
+  size: 104, 158
+  orig: 104, 159
+  offset: 0, 1
+  index: -1
+001/攻击8
+  rotate: false
+  xy: 398, 11
+  size: 104, 159
+  orig: 104, 159
+  offset: 0, 0
+  index: -1
+001/板子
+  rotate: true
+  xy: 2, 159
+  size: 266, 97
+  orig: 266, 97
+  offset: 0, 0
+  index: -1
+001/烟雾
+  rotate: false
+  xy: 2, 2
+  size: 143, 155
+  orig: 143, 155
+  offset: 0, 0
+  index: -1
+001/身体
+  rotate: true
+  xy: 200, 172
+  size: 253, 150
+  orig: 253, 150
+  offset: 0, 0
+  index: -1
+001/轮子
+  rotate: false
+  xy: 1259, 134
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+001/马头
+  rotate: false
+  xy: 1401, 167
+  size: 103, 115
+  orig: 103, 115
+  offset: 0, 0
+  index: -1
+002/座椅
+  rotate: false
+  xy: 504, 12
+  size: 228, 183
+  orig: 228, 183
+  offset: 0, 0
+  index: -1
+002/攻击1
+  rotate: false
+  xy: 1154, 124
+  size: 103, 148
+  orig: 104, 159
+  offset: 0, 6
+  index: -1
+002/攻击2
+  rotate: false
+  xy: 1109, 274
+  size: 104, 151
+  orig: 104, 159
+  offset: 0, 4
+  index: -1
+002/攻击3
+  rotate: false
+  xy: 795, 268
+  size: 102, 157
+  orig: 104, 159
+  offset: 1, 1
+  index: -1
+002/攻击4
+  rotate: true
+  xy: 840, 3
+  size: 104, 153
+  orig: 104, 159
+  offset: 0, 3
+  index: -1
+002/攻击5
+  rotate: false
+  xy: 1004, 270
+  size: 103, 155
+  orig: 104, 159
+  offset: 0, 2
+  index: -1
+002/攻击6
+  rotate: false
+  xy: 899, 269
+  size: 103, 156
+  orig: 104, 159
+  offset: 0, 2
+  index: -1
+002/攻击7
+  rotate: false
+  xy: 689, 267
+  size: 104, 158
+  orig: 104, 159
+  offset: 0, 1
+  index: -1
+002/攻击8
+  rotate: false
+  xy: 292, 11
+  size: 104, 159
+  orig: 104, 159
+  offset: 0, 0
+  index: -1
+002/板子
+  rotate: true
+  xy: 101, 159
+  size: 266, 97
+  orig: 266, 97
+  offset: 0, 0
+  index: -1
+002/烟雾
+  rotate: false
+  xy: 147, 2
+  size: 143, 155
+  orig: 143, 155
+  offset: 0, 0
+  index: -1
+002/身体
+  rotate: true
+  xy: 352, 172
+  size: 253, 150
+  orig: 253, 150
+  offset: 0, 0
+  index: -1
+002/轮子
+  rotate: false
+  xy: 1320, 284
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+002/马头
+  rotate: false
+  xy: 1401, 50
+  size: 103, 115
+  orig: 103, 115
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "68adbea4-b4b7-4792-8162-c575fb3d5588",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1680,
+  "height": 800,
+  "platformSettings": {},
+  "subMetas": {
+    "长城-废墟": {
+      "ver": "1.0.4",
+      "uuid": "bf355a28-698b-4d7a-a3d6-98c5f4ebf5b4",
+      "rawTextureUuid": "68adbea4-b4b7-4792-8162-c575fb3d5588",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1680,
+      "height": 800,
+      "rawWidth": 1680,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

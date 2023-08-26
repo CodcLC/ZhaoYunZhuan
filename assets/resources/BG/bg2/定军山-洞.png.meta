@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "78c80fc2-3395-4dde-acbe-005f6c584e01",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 524,
+  "height": 359,
+  "platformSettings": {},
+  "subMetas": {
+    "定军山-洞": {
+      "ver": "1.0.4",
+      "uuid": "720cceab-f5bf-4ada-97c8-b292ea364d8b",
+      "rawTextureUuid": "78c80fc2-3395-4dde-acbe-005f6c584e01",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 3.5,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 522,
+      "height": 350,
+      "rawWidth": 524,
+      "rawHeight": 359,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d5f184aa-7ab9-4649-a59c-401a63160376",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1680,
+  "height": 229,
+  "platformSettings": {},
+  "subMetas": {
+    "定军山-路面": {
+      "ver": "1.0.4",
+      "uuid": "850b7214-4a5f-481b-91e0-09272494784b",
+      "rawTextureUuid": "d5f184aa-7ab9-4649-a59c-401a63160376",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1680,
+      "height": 229,
+      "rawWidth": 1680,
+      "rawHeight": 229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

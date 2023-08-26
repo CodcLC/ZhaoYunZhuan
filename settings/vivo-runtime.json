@@ -1,0 +1,19 @@
+{
+  "package": "com.joydream.stickmansg.vivominigame",
+  "name": "火柴人三国",
+  "icon": "C:\\Users\\Joydream\\Desktop\\KeyStore\\火柴人三国OV秘钥\\256x256.png",
+  "versionName": "1.0.12",
+  "versionCode": "13",
+  "minPlatformVersion": "1057",
+  "deviceOrientation": "landscape",
+  "logLevel": "log",
+  "npmPath": "",
+  "tinyPackageMode": true,
+  "tinyPackageServer": "https://01txy.goodgame360.com/game/24/vivo/202006110154",
+  "useDebugKey": false,
+  "privatePath": "C:\\Users\\Joydream\\Desktop\\KeyStore\\火柴人三国OV秘钥\\key.pem",
+  "certificatePath": "C:\\Users\\Joydream\\Desktop\\KeyStore\\火柴人三国OV秘钥\\cert.pem",
+  "disabledMode": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

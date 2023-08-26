@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"nativerotate","_duration":1.25,"sample":24,"wrapMode":2,"curveData":{"props":{"angle":[{"frame":0,"value":0},{"frame":0.4166666666666667,"value":0},{"frame":0.625,"value":10},{"frame":1.0416666666666667,"value":-10},{"frame":1.25,"value":0}]}}}

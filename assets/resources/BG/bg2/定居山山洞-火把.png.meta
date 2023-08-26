@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "93a8f866-f810-41e8-98c4-fe35a952f26d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 335,
+  "height": 334,
+  "platformSettings": {},
+  "subMetas": {
+    "定居山山洞-火把": {
+      "ver": "1.0.4",
+      "uuid": "c73216b5-c172-41f9-ad88-fd272e415ce3",
+      "rawTextureUuid": "93a8f866-f810-41e8-98c4-fe35a952f26d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 1.5,
+      "trimX": 4,
+      "trimY": 4,
+      "width": 324,
+      "height": 323,
+      "rawWidth": 335,
+      "rawHeight": 334,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

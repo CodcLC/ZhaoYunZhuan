@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "70a572bc-86e6-4fc9-af0a-ac8b5066b7c9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 109,
+  "height": 124,
+  "platformSettings": {},
+  "subMetas": {
+    "BOSS关卡外发光": {
+      "ver": "1.0.4",
+      "uuid": "8e03ba3a-e1cf-42bd-b8c5-1c523eae98c1",
+      "rawTextureUuid": "70a572bc-86e6-4fc9-af0a-ac8b5066b7c9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 107,
+      "height": 123,
+      "rawWidth": 109,
+      "rawHeight": 124,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

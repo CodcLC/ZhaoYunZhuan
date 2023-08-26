@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "b2f87f4b-bbb3-418a-94b8-fd548215c2b7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 55,
+  "height": 60,
+  "platformSettings": {},
+  "subMetas": {
+    "镶嵌武魂": {
+      "ver": "1.0.4",
+      "uuid": "5860873a-aa2d-4ffb-92e3-86d7fd4fbcbd",
+      "rawTextureUuid": "b2f87f4b-bbb3-418a-94b8-fd548215c2b7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 55,
+      "height": 58,
+      "rawWidth": 55,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

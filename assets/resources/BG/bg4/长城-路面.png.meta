@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "2797f6e9-a474-4ef4-b9f6-cc5b7f5dff26",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1680,
+  "height": 229,
+  "platformSettings": {},
+  "subMetas": {
+    "长城-路面": {
+      "ver": "1.0.4",
+      "uuid": "671a053f-093b-4bd1-8f8c-a2e6660f40a1",
+      "rawTextureUuid": "2797f6e9-a474-4ef4-b9f6-cc5b7f5dff26",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1680,
+      "height": 229,
+      "rawWidth": 1680,
+      "rawHeight": 229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.Material",
+  "_name": "LabelMenu",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "f490865a-b8d5-40f7-942a-e96be76d549b"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true
+      }
+    }
+  }
+}

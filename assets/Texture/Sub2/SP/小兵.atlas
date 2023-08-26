@@ -1,0 +1,279 @@
+
+小兵.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001/刀影
+  rotate: false
+  xy: 2, 260
+  size: 373, 227
+  orig: 373, 227
+  offset: 0, 0
+  index: -1
+001/右手上
+  rotate: true
+  xy: 1195, 330
+  size: 56, 96
+  orig: 56, 96
+  offset: 0, 0
+  index: -1
+001/右手下
+  rotate: false
+  xy: 837, 246
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+001/右腿上
+  rotate: true
+  xy: 1846, 401
+  size: 86, 90
+  orig: 86, 90
+  offset: 0, 0
+  index: -1
+001/右腿下
+  rotate: true
+  xy: 1631, 344
+  size: 44, 96
+  orig: 44, 96
+  offset: 0, 0
+  index: -1
+001/头
+  rotate: false
+  xy: 1300, 374
+  size: 164, 113
+  orig: 164, 113
+  offset: 0, 0
+  index: -1
+001/左手上
+  rotate: false
+  xy: 250, 57
+  size: 82, 99
+  orig: 82, 99
+  offset: 0, 0
+  index: -1
+001/左手下
+  rotate: false
+  xy: 857, 353
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+001/左腿上
+  rotate: false
+  xy: 1580, 286
+  size: 47, 86
+  orig: 47, 86
+  offset: 0, 0
+  index: -1
+001/左腿下
+  rotate: true
+  xy: 1843, 355
+  size: 44, 96
+  orig: 44, 96
+  offset: 0, 0
+  index: -1
+001/弓弦1
+  rotate: true
+  xy: 2, 2
+  size: 3, 168
+  orig: 3, 168
+  offset: 0, 0
+  index: -1
+001/弓弦2
+  rotate: true
+  xy: 2, 2
+  size: 3, 168
+  orig: 3, 168
+  offset: 0, 0
+  index: -1
+001/枪影
+  rotate: false
+  xy: 1094, 388
+  size: 204, 99
+  orig: 204, 99
+  offset: 0, 0
+  index: -1
+001/烟雾
+  rotate: false
+  xy: 1941, 355
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1
+001/身体
+  rotate: true
+  xy: 377, 169
+  size: 149, 228
+  orig: 149, 228
+  offset: 0, 0
+  index: -1
+002/右手上
+  rotate: false
+  xy: 339, 164
+  size: 33, 94
+  orig: 35, 96
+  offset: 1, 1
+  index: -1
+002/右手下
+  rotate: false
+  xy: 1488, 312
+  size: 90, 60
+  orig: 92, 62
+  offset: 1, 1
+  index: -1
+002/右腿上
+  rotate: true
+  xy: 1938, 402
+  size: 85, 90
+  orig: 88, 92
+  offset: 2, 1
+  index: -1
+002/右腿下
+  rotate: false
+  xy: 1037, 337
+  size: 51, 103
+  orig: 53, 105
+  offset: 1, 1
+  index: -1
+002/头
+  rotate: false
+  xy: 1631, 390
+  size: 112, 97
+  orig: 114, 99
+  offset: 1, 1
+  index: -1
+002/左手上
+  rotate: true
+  xy: 1391, 312
+  size: 60, 95
+  orig: 63, 97
+  offset: 2, 1
+  index: -1
+002/左手下
+  rotate: false
+  xy: 1629, 264
+  size: 90, 78
+  orig: 91, 80
+  offset: 0, 1
+  index: -1
+002/左腿上
+  rotate: true
+  xy: 837, 197
+  size: 47, 86
+  orig: 49, 88
+  offset: 1, 1
+  index: -1
+002/左腿下
+  rotate: true
+  xy: 1090, 336
+  size: 50, 103
+  orig: 52, 105
+  offset: 1, 1
+  index: -1
+002/身体
+  rotate: true
+  xy: 2, 7
+  size: 149, 246
+  orig: 150, 248
+  offset: 0, 1
+  index: -1
+003/刀
+  rotate: true
+  xy: 2, 158
+  size: 100, 335
+  orig: 100, 335
+  offset: 0, 0
+  index: -1
+003/右手上
+  rotate: true
+  xy: 1293, 316
+  size: 56, 96
+  orig: 58, 98
+  offset: 1, 1
+  index: -1
+003/右手下
+  rotate: false
+  xy: 955, 291
+  size: 80, 60
+  orig: 82, 62
+  offset: 1, 1
+  index: -1
+003/右腿上
+  rotate: false
+  xy: 770, 343
+  size: 85, 90
+  orig: 87, 92
+  offset: 1, 1
+  index: -1
+003/右腿下
+  rotate: true
+  xy: 1745, 360
+  size: 43, 96
+  orig: 45, 98
+  offset: 1, 1
+  index: -1
+003/头
+  rotate: false
+  xy: 1466, 374
+  size: 163, 113
+  orig: 165, 115
+  offset: 1, 1
+  index: -1
+003/左手上
+  rotate: true
+  xy: 1745, 405
+  size: 82, 99
+  orig: 84, 101
+  offset: 1, 1
+  index: -1
+003/左手下
+  rotate: false
+  xy: 947, 353
+  size: 88, 87
+  orig: 90, 89
+  offset: 1, 1
+  index: -1
+003/左腿上
+  rotate: true
+  xy: 250, 7
+  size: 48, 86
+  orig: 50, 88
+  offset: 1, 1
+  index: -1
+003/左腿下
+  rotate: true
+  xy: 857, 308
+  size: 43, 96
+  orig: 45, 98
+  offset: 1, 1
+  index: -1
+003/弓
+  rotate: true
+  xy: 377, 320
+  size: 113, 391
+  orig: 113, 391
+  offset: 0, 0
+  index: -1
+003/枪
+  rotate: true
+  xy: 377, 435
+  size: 52, 460
+  orig: 52, 460
+  offset: 0, 0
+  index: -1
+003/箭
+  rotate: false
+  xy: 839, 442
+  size: 253, 45
+  orig: 253, 45
+  offset: 0, 0
+  index: -1
+003/身体
+  rotate: true
+  xy: 607, 170
+  size: 148, 228
+  orig: 150, 230
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "0c04537b-9a00-42e6-ace1-677cc02e1b14",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 461,
+  "height": 61,
+  "platformSettings": {},
+  "subMetas": {
+    "“步泽履，君子以辨民安志”": {
+      "ver": "1.0.4",
+      "uuid": "fecaddff-66ab-4081-8cdb-03f231684710",
+      "rawTextureUuid": "0c04537b-9a00-42e6-ace1-677cc02e1b14",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 461,
+      "height": 61,
+      "rawWidth": 461,
+      "rawHeight": 61,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

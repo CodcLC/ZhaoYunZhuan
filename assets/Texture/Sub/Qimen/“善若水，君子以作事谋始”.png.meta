@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a74dcb31-a015-48bd-847e-dc2ff5c77c12",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 461,
+  "height": 60,
+  "platformSettings": {},
+  "subMetas": {
+    "“善若水，君子以作事谋始”": {
+      "ver": "1.0.4",
+      "uuid": "e8c532c4-0217-470f-ad37-d5621c854b51",
+      "rawTextureUuid": "a74dcb31-a015-48bd-847e-dc2ff5c77c12",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 459,
+      "height": 59,
+      "rawWidth": 461,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

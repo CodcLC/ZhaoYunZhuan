@@ -1,0 +1,1 @@
+cd quickgame & quickgame subpack --no-build-js release

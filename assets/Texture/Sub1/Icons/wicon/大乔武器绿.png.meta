@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c139671a-b53b-4594-9d46-f8d7c0318f14",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 87,
+  "height": 92,
+  "platformSettings": {},
+  "subMetas": {
+    "大乔武器绿": {
+      "ver": "1.0.4",
+      "uuid": "05d37941-7715-452e-a6c1-cc63e8469278",
+      "rawTextureUuid": "c139671a-b53b-4594-9d46-f8d7c0318f14",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 87,
+      "height": 92,
+      "rawWidth": 87,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

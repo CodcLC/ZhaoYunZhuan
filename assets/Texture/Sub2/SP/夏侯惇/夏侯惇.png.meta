@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "ca7c6a7d-82bc-497b-932a-0abf09a9af1f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "夏侯惇": {
+      "ver": "1.0.4",
+      "uuid": "65711284-3593-465f-aac5-57182afc7247",
+      "rawTextureUuid": "ca7c6a7d-82bc-497b-932a-0abf09a9af1f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 1,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1019,
+      "height": 506,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

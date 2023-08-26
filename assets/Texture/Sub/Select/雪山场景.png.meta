@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "3044e01b-d886-4a02-af9d-7b15ff42df50",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 298,
+  "height": 130,
+  "platformSettings": {},
+  "subMetas": {
+    "雪山场景": {
+      "ver": "1.0.4",
+      "uuid": "2e75efcc-279d-49fa-88df-a09e4d551f75",
+      "rawTextureUuid": "3044e01b-d886-4a02-af9d-7b15ff42df50",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 298,
+      "height": 130,
+      "rawWidth": 298,
+      "rawHeight": 130,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

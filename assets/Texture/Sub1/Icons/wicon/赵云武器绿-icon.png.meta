@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f1cb0adf-c5ca-4f96-bdd6-0e64e9a88e97",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 92,
+  "height": 91,
+  "platformSettings": {},
+  "subMetas": {
+    "赵云武器绿-icon": {
+      "ver": "1.0.4",
+      "uuid": "2c49aafa-49f2-41df-b708-1bc91b2b329e",
+      "rawTextureUuid": "f1cb0adf-c5ca-4f96-bdd6-0e64e9a88e97",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 91,
+      "height": 90,
+      "rawWidth": 92,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "cf2de796-f674-4ca3-889e-10c2d34d5273",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 524,
+  "height": 408,
+  "platformSettings": {},
+  "subMetas": {
+    "雪山-山洞": {
+      "ver": "1.0.4",
+      "uuid": "b84a29d0-9f5d-4b0f-bf6e-24e8d45e0858",
+      "rawTextureUuid": "cf2de796-f674-4ca3-889e-10c2d34d5273",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 14,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 522,
+      "height": 380,
+      "rawWidth": 524,
+      "rawHeight": 408,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

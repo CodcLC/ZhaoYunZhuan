@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "18035de9-2835-4db3-971c-824f9a93ea12",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 225,
+  "height": 74,
+  "platformSettings": {},
+  "subMetas": {
+    "角色达到指定等级": {
+      "ver": "1.0.4",
+      "uuid": "a8a2c89e-c9be-4e0f-abc6-4e7d15027ebf",
+      "rawTextureUuid": "18035de9-2835-4db3-971c-824f9a93ea12",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 225,
+      "height": 74,
+      "rawWidth": 225,
+      "rawHeight": 74,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

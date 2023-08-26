@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "480eb2d8-b599-428f-bafe-fa753c26eb62",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 97,
+  "height": 95,
+  "platformSettings": {},
+  "subMetas": {
+    "幼鲲头像": {
+      "ver": "1.0.4",
+      "uuid": "e010c854-b927-474f-8822-d9d56f567d35",
+      "rawTextureUuid": "480eb2d8-b599-428f-bafe-fa753c26eb62",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 97,
+      "height": 95,
+      "rawWidth": 97,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
